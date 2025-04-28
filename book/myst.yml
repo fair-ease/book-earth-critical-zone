@@ -1,7 +1,7 @@
 # See book at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: uc511-coastal-water-dynamics
+  id: uc512-coastal-water-dynamics
   title: Earth Critical Zone
   description: Blabla to be completed
   github: https://github.com/fair-ease/book-earth-critical-zone
